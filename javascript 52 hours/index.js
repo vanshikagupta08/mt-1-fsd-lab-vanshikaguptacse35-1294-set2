@@ -58,3 +58,28 @@
 
 // console.log(7>>2)
 
+// 19 august 2026
+
+// var name="vikas";
+// name="amit";
+// console.log(name);
+
+// //let
+
+// let age=23;
+// console.log(age);
+// age=26;
+// console.log(age);
+// let age=30;
+
+//const
+// const name="amit";
+// name="rahul";
+
+// const student={
+//     name:"vanshika"
+//     age:27
+// }
+// student.name="amit";
+// const fruits=[apple,guaava,orange]
+

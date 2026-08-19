@@ -3,7 +3,7 @@
 // console.log("5%2=",5%2)
 // console.log("5**2=",5**2)
 
-//challenge 1
+// //challenge 1
 
 /*let pricePerItem= 150;
 let quantity= 3;
@@ -118,4 +118,27 @@ console.log("discountPrice = ",discountPrice );*/
 
 //  let result = "alpha" ?? "mkl" ;
 //  console.log(result); 
+
+// let s=3*2.01;
+// console.log(s);
+
+// let s=10/4.0;
+// console.log(s);
+
+// let s=-3 % 5;
+// console.log(s);
+
+
+// let name="akriti";
+// console.log(typeof(name));
+
+// let y=null; //by error ye object hme null datatype deta hai
+// console.log(y);
+
+// const x={
+//     name:"vikas"
+// }
+// console.log(x);
+
+const h=["apple"];//array
 
