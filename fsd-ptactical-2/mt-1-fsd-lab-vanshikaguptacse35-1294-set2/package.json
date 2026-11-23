@@ -1,0 +1,16 @@
+{
+  "name": "mt-1-fsd-lab-vanshikaguptacse35-1294-set2",
+  "version": "1.0.0",
+  "description": "A RESTful API developed using Node.js and Express.js to manage library book records in server memory. It supports full CRUD operations along with input validation, HTTP status code handling, and case-insensitive author filtering.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
